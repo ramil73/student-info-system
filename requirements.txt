@@ -1,0 +1,2 @@
+# Standard library only; no third-party packages required.
+# Optional: pytest>=7.0  (for running tests with pytest)

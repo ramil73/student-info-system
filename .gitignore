@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+.vscode/
+.idea/
+logs/*.log
+data/*.corrupt-*
+data/students_export.csv
+.env
