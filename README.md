@@ -34,7 +34,7 @@ student-info-system/
 Requires Python 3.8+ (no external dependencies).
 
 ```bash
-git clone https://github.com/<your-username>/student-info-system.git
+git clone https://github.com/ramil73/student-info-system.git
 cd student-info-system
 python -m src.main
 ```
@@ -63,4 +63,4 @@ python -m unittest discover tests -v
 - Commit messages follow `type: description` (feat, fix, docs, test, refactor)
 
 ## Author
-<Your Name>
+<Ramil Guerrero>
